@@ -1,3 +1,3 @@
 # data
 Apna College
-Name - Kartik
+Name - Kartik Jangir
